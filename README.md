@@ -28,4 +28,4 @@ Pastikan [Node.js](https://nodejs.org/) sudah terinstal di perangkat Anda. Ikuti
 
 1. **Clone repositori ini:**
 ```bash
-   git clone [https://github.com/username-kamu/jogja-smart-people.git](https://github.com/username-kamu/jogja-smart-people.git)
+   git clone [https://github.com/Afta20/jogja-smart-people.git]
