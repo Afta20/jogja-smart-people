@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Jogja Smart People - Progressive Web App (PWA)
 
-## Getting Started
+> Mewujudkan Inklusivitas Edukasi, Akselerasi Kompetensi, dan Kolaborasi Digital di Yogyakarta.
 
-First, run the development server:
+Proyek ini adalah implementasi *frontend* berbasis Progressive Web App (PWA) yang dirancang khusus untuk mendukung inisiatif **Jogja Smart City** pada dimensi **Smart People**. Aplikasi ini berfokus pada penciptaan ekosistem pendidikan yang inklusif, peningkatan literasi digital, dan penyediaan ruang kolaborasi teknologi untuk seluruh lapisan masyarakat Daerah Istimewa Yogyakarta.
 
+## ✨ Fitur Utama
+
+Aplikasi ini mengusung pendekatan *Human-Centered Design* dengan fitur aksesibilitas tinggi (mendukung standar WCAG), serta fungsionalitas yang dibagi menjadi empat pilar utama:
+
+*   🎓 **Kanca SinaU (Edu-Inklusif):** Platform literasi digital dasar, internet sehat, dan keamanan data. Dilengkapi dengan **Large Text Mode** dan *voice guiding* untuk memastikan aksesibilitas bagi kelompok rentan dan lansia.
+*   💼 **Talenta Jogja (Akselerasi Kompetensi):** Wadah *bootcamp* dan pelatihan keahlian digital (seperti UI/UX, *Frontend*, *Backend*, dan AI). Kurikulum diadaptasi sesuai dengan potensi karier industri teknologi lokal di Jogja.
+*   💡 **Karya Jogja (Digital Creative Hub):** Forum urun rembuk dan ruang pameran portofolio inovasi warga. Memungkinkan pelajar dan komunitas untuk mencari rekan tim, berkolaborasi, dan membangun *startup* lokal.
+*   🎁 **SinaU Reward (Gamifikasi Belajar):** Sistem insentif digital. Warga mendapatkan poin dari setiap penyelesaian modul pembelajaran yang dapat ditukarkan dengan voucer transportasi umum (TransJogja) atau saldo dompet digital.
+
+## 🛠️ Teknologi yang Digunakan
+
+Aplikasi ini dibangun dengan *stack frontend* modern untuk memastikan performa yang cepat, responsif, dan memberikan pengalaman layaknya aplikasi *native* di perangkat *mobile*:
+
+*   **Framework:** [Next.js](https://nextjs.org/) (App Router)
+*   **Library UI:** [React](https://reactjs.org/)
+*   **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+*   **Arsitektur:** Progressive Web App (Mobile-First Design)
+
+## 🚀 Cara Menjalankan Proyek Secara Lokal
+
+Pastikan [Node.js](https://nodejs.org/) sudah terinstal di perangkat Anda. Ikuti langkah-langkah berikut untuk menjalankan aplikasi di lingkungan pengembangan:
+
+1. **Clone repositori ini:**
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   git clone [https://github.com/username-kamu/jogja-smart-people.git](https://github.com/username-kamu/jogja-smart-people.git)
